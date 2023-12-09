@@ -1,12 +1,14 @@
+<div align="center">
 <a href="https://densityfield.github.io/Live/">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/DensityField/Artwork/blob/main/captures/dark/website.png?raw=true"
+      srcset="https://github.com/DensityField/Artwork/blob/main/procedural/dark/logo.png?raw=true"
      />
     <img
-      align="center"
-      src="https://github.com/DensityField/Artwork/blob/main/captures/light/website.png?raw=true"
+      height="24"
+      src="https://github.com/DensityField/Artwork/blob/main/procedural/light/logo.png?raw=true"
      />
   </picture>
 </a>
+</div>
